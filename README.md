@@ -1,16 +1,27 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**edem4ik322/edem4ik322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет!       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-Here are some ideas to get you started:
+## Обо мне:
+Я начинающий программист, в настоящее время учусь в КИПУ имени Февзи Якубова. 
+Проявляю большой интерес к Python, C++, html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Немного понимаю в:
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css)](https://skillicons.dev) 
+
+#### Также очень нравится разработка игр на движке godot engine       [![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edem4ik_322&theme=neon&locale=ru)]
+
+### Контактные данные:
+
+__Дискорд:__   edem4ik_322  
+
+__Телеграмм:__  https://t.me/Edem4ik_Rustemov
+
+__ВК:__     https://vk.com/edem4ik_322
